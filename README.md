@@ -8,5 +8,9 @@
 ![smart](https://user-images.githubusercontent.com/89383184/131109239-f1c5261f-110f-4ad3-82c0-55fc81d39d31.jpg)
 ![diving](https://user-images.githubusercontent.com/89383184/131109265-c7c530cc-ac7c-4393-a3fd-474cb3ee8faf.jpg)
 ![analog](https://user-images.githubusercontent.com/89383184/131109280-437f275b-bb79-4ecd-a5ca-b43a03deafd5.jpg)
-
+![pocket](https://user-images.githubusercontent.com/89383184/131109432-c2917462-a7be-48df-b331-0b0997e4f363.jpg)
+![quartz](https://user-images.githubusercontent.com/89383184/131109449-83a87ced-3b2e-469b-8e53-e9c7a0b534fc.jpg)
+![apple](https://user-images.githubusercontent.com/89383184/131109458-7bdf5838-dded-4059-ac03-caa6d1c2bbb4.jpg)
+![mechanical](https://user-images.githubusercontent.com/89383184/131109479-296324eb-5eef-4544-8044-fe739b87007b.jpg)
+![mailogo](https://user-images.githubusercontent.com/89383184/131109488-648fecc1-d50a-4dad-809d-589a7a08f417.jpg)
 
